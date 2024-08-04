@@ -1,0 +1,29 @@
+Hello, I'm Vansh Saini 👋
+
+Welcome to my GitHub profile! I'm a student specializing in COER university. Here's a bit about me:
+
+=> About Me
+
+-  👨‍💻 Currently Working On : Assignment to create a git repository
+-  📚 Learning : Python programming
+-  💬 Ask Me About : I am intersted in exploring advance technology and innovative creations in Digital and Virtual world
+-  📫 How to Reach Me : virat.singh.pirata@gmail.com 
+
+=> Projects
+
+Here are some of my notable projects: N/A(#Link will be add soon)
+
+
+=> Skills
+
+- Languages : Python
+- Tools & Technologies : N/A
+
+=> Fun Facts
+
+- Hobbies : Making own AI and making it more efficent 
+- Favorite Technologies : Wearable Technology, Artificial Intelligence and Machine Learning, 
+			  Nanotechnology, Smart Materials and Flexible Electronics, Advanced Robotics and Automation,
+			  Renewable Energy and Power Systems.
+
+Thanks for visiting my profile! 🚀
